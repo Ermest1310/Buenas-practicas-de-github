@@ -10,6 +10,11 @@ local.properties
 *.log
 .externalNativeBuild
 .cxx
+local.properties
+
+# MkDocs
+/site/
+.cache/
 .DS_Store
 .idea/
 Project Backups/
